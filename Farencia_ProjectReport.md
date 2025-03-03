@@ -1,7 +1,7 @@
 
 # Project Report 
 
-## Researching & Qantifying the relationship between Modern art & the prices by distinguishing the difference of Historical art/ Post War 
+##  Researching & Quantifying the relationship between Modern art & historical art by the prices and their relationships with different factors such as movements, periods, artists, conditions and ages of the art.
 
 # Introduction
 ## Project Overview
