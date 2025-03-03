@@ -139,4 +139,4 @@ I also got help from my collegue, a python coding tutor, Ben
 ## Submission & Repository
 File Format: This report is available in .pdf, .docx, .odt, and .md formats.
 
-GitHub Repository: [Insert link to my project repository]
+GitHub Repository: [https://github.com/farencia/Farencia-DS-final-project]
